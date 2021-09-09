@@ -1,5 +1,5 @@
 # fullstack-review
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+
 
 # FINAL SPRINT: GitHub Fetcher - Fullstack Exercise
 You are given a skeleton of frontend and backend code. On the frontend, you have react. On the backend, you have express and mongo.
